@@ -19,7 +19,7 @@ class App extends React.Component {
             <a href="https://twitter.com" title="Twitter" target="_blank" rel="noopener noreferrer">
               <IconTwitter className="icon" />
             </a>
-            <a href="https://github.com/arkn98/coming-soon" title="GitHub" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/alex-pekler/tomi" title="GitHub" target="_blank" rel="noopener noreferrer">
               <IconGithub className="icon" />
             </a>
           </div>
@@ -34,7 +34,7 @@ class App extends React.Component {
           </a>
         </div>
         <div className="footer">
-          <span>made by <a className="underlined" href="https://github.com/alex-pekler" target="_blank" rel="noopener noreferrer">arkn98</a> using <a className="underlined" href="https://reactjs.org/" title="ReactJS" target="_blank" rel="noopener noreferrer">React</a> | <a className="underlined" href="https://github.com/alex-pekler/tomi" title="GitHub repo" target="_blank" rel="noopener noreferrer">GitHub</a></span>
+          <span>made by <a className="underlined" href="https://github.com/alex-pekler" target="_blank" rel="noopener noreferrer">Alex Pekler</a> using <a className="underlined" href="https://reactjs.org/" title="ReactJS" target="_blank" rel="noopener noreferrer">React</a> | <a className="underlined" href="https://github.com/alex-pekler/tomi" title="GitHub repo" target="_blank" rel="noopener noreferrer">GitHub</a></span>
         </div>
       </div>
     );
